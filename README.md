@@ -17,7 +17,7 @@
 
 ## 🧑‍💼 Professional Profile
 
-I am currently studying Multimedia Applications at Cape Peninsula University of Technology (CPUT) as part of an IT Diploma programme. I have built a strong understanding of digital design, multimedia production, and web development, and I am able to take a concept and transform it into a working and visually appealing digital solution for a business.
+I am currently studying Multimedia Applications at Cape Peninsula University of Technology (CPUT) as part of a Diploma in ICT programme. I have developed a excellent understanding of digital design, multimedia production, and web development, enabling me to transform creative concepts into functional and visually appealing digital solutions for businesses and organisations.
 
 My passion lies in technology, creativity, and innovation, and I continuously strive to produce high-quality work. I am adaptable and disciplined, possess excellent communication and interpersonal skills, and can work successfully both independently and within a team while adding value through my creativity and technical abilities.
 
@@ -37,7 +37,7 @@ Diploma in ICT: Multimedia Applications
 
 ## 💼 Work Experience
 
-### 👨‍💼 Leader of an Academic Project Team  
+### 👨‍💼 Academic Project Team Leader 
 **Cape Peninsula University of Technology** | 2023 – 2026
 
 - Managed and organised the execution of multimedia and IT-based group projects across various course modules
@@ -91,8 +91,6 @@ Diploma in ICT: Multimedia Applications
 - Graphic Design
 - UI Design
 - UX Principles
-- Video Editing
-- Content Creation
 - Strategic Planning
 - Leadership
 - Communication
@@ -126,7 +124,7 @@ Diploma in ICT: Multimedia Applications
 
 **Meagan Hamman**  
 Multimedia Design Lecturer  
-Cape Peninsula University of Technology  
+Cape Peninsula University of Technology
 📞 +27 21 460 9010  
 
 **Shamil Khan**  
