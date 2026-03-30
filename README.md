@@ -1,8 +1,8 @@
 # Raees Jaffar
 
-🎓 Multimedia Applications Student at Cape Peninsula University of Technology (CPUT) 
+🎓 Multimedia Applications Student at Cape Peninsula University of Technology (CPUT)  
 
-📍 Cape Town, South Africa
+📍 Cape Town, South Africa  
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 🧑‍💼 Professional Profile
 
-I am currently studying Multimedia Applications at Cape Peninsula University of Technology (CPUT) as part of a Diploma in ICT programme. I have developed a excellent understanding of digital design, multimedia production, and web development, enabling me to transform creative concepts into functional and visually appealing digital solutions for businesses and organisations.
+I am currently studying Multimedia Applications at Cape Peninsula University of Technology (CPUT) as part of a Diploma in ICT programme. I have developed a strong understanding of digital design, multimedia production, and web development, enabling me to transform creative concepts into functional and visually appealing digital solutions for businesses and organisations.
 
 My passion lies in technology, creativity, and innovation, and I continuously strive to produce high-quality work. I am adaptable and disciplined, possess excellent communication and interpersonal skills, and can work successfully both independently and within a team while adding value through my creativity and technical abilities.
 
@@ -37,7 +37,7 @@ Diploma in ICT: Multimedia Applications
 
 ## 💼 Work Experience
 
-### 👨‍💼 Academic Project Team Leader 
+### 👨‍💼 Academic Project Team Leader
 **Cape Peninsula University of Technology** | 2023 – 2026
 
 - Managed and organised the execution of multimedia and IT-based group projects across various course modules
@@ -75,22 +75,20 @@ Diploma in ICT: Multimedia Applications
 - Responsive Web Design
 - Basic Analytics Interpretation
 - Canva
+- Graphic Design
+- UI Design
+- UX Principles
 - Video Editing
-- Vector Graphic Design
 - Digital Image Manipulation
 - Layout Design
 - Microsoft Office (Word, Excel, Access, PowerPoint, Outlook)
 - Content Creation
 - Visual Communication
-- Project Planning
-
+  
 ---
 
 ## 🧠 Professional Skills
 
-- Graphic Design
-- UI Design
-- UX Principles
 - Strategic Planning
 - Leadership
 - Communication
@@ -99,6 +97,9 @@ Diploma in ICT: Multimedia Applications
 - Time Management
 - Attention to Detail
 - Adaptability
+- Project Planning
+- Critical Thinking
+- Creativity
 
 ---
 
@@ -124,7 +125,7 @@ Diploma in ICT: Multimedia Applications
 
 **Meagan Hamman**  
 Multimedia Design Lecturer  
-Cape Peninsula University of Technology
+Cape Peninsula University of Technology  
 📞 +27 21 460 9010  
 
 **Shamil Khan**  
