@@ -137,13 +137,3 @@ Cape Peninsula University of Technology
 Events Coordinator  
 Woodside Village for the Disabled  
 📞 +27 66 203 8324  
-
----
-
-## 🎥 Mock Interview Video
-
-Watch my mock interview here:
-https://github.com/user-attachments/assets/8b49580f-5fbd-4fc2-a66e-59e4b9a13ca8
-
-
-
