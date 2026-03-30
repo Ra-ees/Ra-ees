@@ -74,21 +74,25 @@ Diploma in ICT: Multimedia Applications
 - CSS
 - Responsive Web Design
 - Basic Analytics Interpretation
-- Canva
-- Graphic Design
-- UI Design
-- UX Principles
+- Canva 
+- Vector Graphic Design
 - Video Editing
 - Digital Image Manipulation
 - Layout Design
 - Microsoft Office (Word, Excel, Access, PowerPoint, Outlook)
 - Content Creation
-- Visual Communication
   
 ---
 
-## 🧠 Professional Skills
+## 🧠 Skills
 
+- Graphic Design
+- HTML
+- CSS
+- UI Design
+- UX Principles
+- Video Editing
+- Content Creation 
 - Strategic Planning
 - Leadership
 - Communication
@@ -97,10 +101,11 @@ Diploma in ICT: Multimedia Applications
 - Time Management
 - Attention to Detail
 - Adaptability
+- Visual Communication 
 - Project Planning
 - Critical Thinking
 - Creativity
-
+  
 ---
 
 ## 🤝 Volunteering Experience
