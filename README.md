@@ -144,7 +144,8 @@ Woodside Village for the Disabled
 
 ### 🎥 Mock Interview
 
-Watch here:  
-<video width="600" controls>
-  <source src="raees-jaffar-mock-interview.mp4" type="video/mp4">
+<h3>🎥 Mock Interview</h3>
+
+<video width="640" height="360" controls>
+  <source src="raees-jaffar-mcok-interview.mp4" type="video/mp4">
 </video>
