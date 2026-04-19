@@ -146,4 +146,52 @@ Woodside Village for the Disabled
   <source src="raees-jaffar-mock-interview.mp4" type="video/mp4">
 </video>
 
+---
 
+## 🪞 Reflective Learning
+
+### 📄 Reflection on Coding in Markdown
+
+**Situation:**  
+As part of my portfolio development, I was required to convert my traditional CV into a GitHub README format using Markdown.
+
+**Task:**  
+My goal was to accurately translate all the information from my original CV into Markdown while improving its structure, readability, and presentation for an online platform.
+
+**Action:**  
+I learned and applied Markdown syntax, including headings, lists, links, and formatting techniques to structure the document effectively. I also refined the wording and layout to suit a GitHub portfolio, ensuring that the content remained professional while being visually clear and easy to navigate.
+
+**Result:**  
+I successfully created a well-structured and visually appealing Markdown CV that is both professional and suited for online viewing. This experience improved my attention to detail, strengthened my documentation skills, and enhanced my ability to present information in a digital format.
+
+---
+
+### 🎥 Reflection on Mock Interview Video Experience
+
+**Situation:**  
+As part of my career preparedness development, I was required to participate in and record a mock interview.
+
+**Task:**  
+My objective was to demonstrate my communication skills, confidence, and ability to present myself professionally in an interview setting.
+
+**Action:**  
+I prepared by reviewing common interview questions and reflecting on my skills, experiences, and goals. During the recording, I focused on speaking clearly, maintaining good posture, and presenting my responses in a structured and confident manner. After completing the interview, I reflected on my performance to identify areas for improvement.
+
+**Result:**  
+The experience helped me become more confident in presenting myself professionally and improved my verbal communication skills. It also highlighted the importance of preparation and self-awareness in interview situations, which will benefit me in future career opportunities.
+
+---
+
+### 🌐 Reflection on the Use of GitHub Pages
+
+**Situation:**  
+During the development of my portfolio, I was introduced to GitHub Pages as a platform to host and present my work online.
+
+**Task:**  
+My goal was to understand how GitHub Pages works and how it can be used to showcase my projects and professional profile in a structured and accessible way.
+
+**Action:**  
+I explored how repositories can be used to host web-based content and learned how to organise files effectively for online presentation. I applied this knowledge by structuring my portfolio in a clear and professional manner, ensuring that all content was accessible and easy to navigate.
+
+**Result:**  
+This experience enhanced my understanding of web hosting and digital portfolio development. It also gave me practical insight into how developers and multimedia professionals present their work online, which will be valuable as I continue to build my professional presence.
