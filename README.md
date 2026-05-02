@@ -9,7 +9,9 @@
 ## 📫 Contact Information
 
 - 📧 222668962@mycput.ac.za  
-- 📱 +27 76 228 3930  
+- 📱 +27 76 228 3930
+- 📅 Date of Birth: 13 February 2002  
+- 🏠 Address: 1 Karg Street, Ottery East, 7808, Cape Town  
 - 🔗 GitHub: https://github.com/Ra-ees  
 - 🔗 LinkedIn: https://www.linkedin.com/learning/?u=2256146  
 
