@@ -11,7 +11,7 @@
 - 📧 [222668962@mycput.ac.za](mailto:222668962@mycput.ac.za)
 - 📱 +27 76 228 3930
 - 🔗 GitHub: [https://github.com/Ra-ees](https://github.com/Ra-ees)
-- 🔗 LinkedIn: [www.linkedin.com/in/raeesjaffar](www.linkedin.com/in/raeesjaffar)
+- 🔗 LinkedIn: [https://linkedin.com/in/raeesjaffar](https://linkedin.com/in/raeesjaffar)
 
 ---
 
