@@ -30,7 +30,7 @@ National Senior Certificate
 2017 – 2021
 
 **Cape Peninsula University of Technology (CPUT)**  
-Diploma in ICT: Multimedia Applications  
+DIP: ICT IN MULTIMEDIA APPLICATIONS 
 2023 – 2026
 
 ---
@@ -75,7 +75,7 @@ Diploma in ICT: Multimedia Applications
 
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - Responsive Web Design
 - Analytics Interpretation
 - Canva
@@ -128,11 +128,6 @@ Diploma in ICT: Multimedia Applications
 
 ## 📚 References
 
-**Meagan Hamman**  
-Multimedia Design Lecturer  
-Cape Peninsula University of Technology  
-📞 +27 21 460 9010
-
 **Shamil Khan**  
 Events Coordinator  
 Woodside Village for the Disabled  
@@ -172,6 +167,8 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 ![User Stories and tasks in Trello](screenshots/task-example2.png)
 ![User Stories and tasks in Trello](screenshots/task-example3.png)
 
+*User stories and associated tasks in Trello.*
+
 **Reflection**
 
 *To be completed after reviewing the Trello screenshots and the user stories and tasks recorded by the team.*
@@ -181,6 +178,8 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 **Evidence:** [View the RideConnect Trello board](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
 
 ![RideConnect product backlog](screenshots/product-backlog.png)
+
+*Product backlog showing the planned product work.*
 
 **Reflection**
 
@@ -193,6 +192,8 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 ![RideConnect sprint backlog](screenshots/sprint-3.png)
 ![RideConnect sprint backlog](screenshots/sprint-4.png)
 ![RideConnect sprint backlog](screenshots/sprint-5.png)
+
+*Sprint backlog showing the work planned for each sprint.*
 
 **Reflection**
 
