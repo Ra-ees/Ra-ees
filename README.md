@@ -163,9 +163,9 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 **Evidence:** [View the User Stories Trello board](https://trello.com/invite/b/6a631fa858e2128dabc693d8/ATTIc45c2213c861ade283e4b745e42a28a9D9B645C3/userstories)
 
 ![User Stories and tasks in Trello](screenshots/user-stories.png)
-![User Stories and tasks in Trello](screenshots/task-example1.png)
-![User Stories and tasks in Trello](screenshots/task-example2.png)
-![User Stories and tasks in Trello](screenshots/task-example3.png)
+![User Stories and tasks in Trello](screenshots/task-1.png)
+![User Stories and tasks in Trello](screenshots/task-2.png)
+![User Stories and tasks in Trello](screenshots/task-3.png)
 
 *User stories and associated tasks in Trello.*
 
