@@ -188,7 +188,11 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 ### 4. Sprint Backlog
 
-*Screenshots showing the sprint backlog and planned sprint tasks will be added here.*
+![RideConnect sprint backlog](screenshots/sprint-1.png)
+![RideConnect sprint backlog](screenshots/sprint-2.png)
+![RideConnect sprint backlog](screenshots/sprint-3.png)
+![RideConnect sprint backlog](screenshots/sprint-4.png)
+![RideConnect sprint backlog](screenshots/sprint-5.png)
 
 **Reflection**
 
