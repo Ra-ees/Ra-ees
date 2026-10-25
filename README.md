@@ -1,4 +1,4 @@
-# Raees Jaffar
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/9d1dddb4-4e07-414b-9c07-14542406385a" /># Raees Jaffar
 
 🎓 Multimedia Applications Student at Cape Peninsula University of Technology (CPUT)
 
@@ -160,7 +160,7 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 ### 2. User Stories and Tasks
 
-**Evidence:** [View the RideConnect Trello board](https://trello.com/invite/b/6a631fa858e2128dabc693d8/ATTIc45c2213c861ade283e4b745e42a28a9D9B645C3/userstories)
+**Evidence:** [View the RideConnect User Stories Trello board](https://trello.com/invite/b/6a631fa858e2128dabc693d8/ATTIc45c2213c861ade283e4b745e42a28a9D9B645C3/userstories)
 
 ![User Stories and tasks in Trello](screenshots/user-stories.png)
 ![User Stories and tasks in Trello](screenshots/task-example1.png)
@@ -175,7 +175,7 @@ Working with user stories and tasks helped me understand the importance of break
 
 ### 3. Product Backlog
 
-**Evidence:** [View the RideConnect Trello board](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
+**Evidence:** [View the RideConnect Product Backlog Trello board](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
 
 ![RideConnect product backlog](screenshots/product-backlog.png)
 
@@ -184,8 +184,16 @@ Working with user stories and tasks helped me understand the importance of break
 **Reflection**
 
 The product backlog helped me understand how project requirements can be organised in one place and reviewed throughout development. It provides the team with a clearer view of the features and improvements that may be needed for RideConnect. I learned that keeping a backlog organised and prioritising work are important because a project can have several requirements, but the team must focus on the most important ones while working within its available time.
-
+w
 ### 4. Sprint Backlog
+
+**Evidence:**
+
+[View the RideConnect Sprint 1 Trello board](https://trello.com/invite/b/6a6797344e221355b41ecac5/ATTI09fc132afbc094afee299f83a226780b994A1CA7/rideconnect-sprint-1)
+[View the RideConnect Sprint 2 Trello board](https://trello.com/invite/b/6a67980fe2b435b92e2ae49f/ATTIe0029f897bcff88c7a99533ab1afeda848813B7E/rideconnect-sprint-2)
+[View the RideConnect Sprint 3 Trello board](https://trello.com/invite/b/6a742c40f7f971fceaa6f3a1/ATTI0a76d77b7ee5ba56a69b0c37da3d6eab7BBB9DB7/rideconnect-sprint-3)
+[View the RideConnect Sprint 4 Trello board](https://trello.com/invite/b/6a742f9df4528bf00e0ebb1a/ATTI9eb83b480e79ba541c57818d9053d4bcE22143C8/rideconnect-sprint-4)
+[View the RideConnect Sprint 5 Trello board](https://trello.com/invite/b/6a7438593b5bdc98af986e22/ATTIde30f5f35d961763708b8f0742beb06fE97478C9/rideconnect-sprint-5)
 
 ![RideConnect sprint backlog](screenshots/sprint-1.png)
 ![RideConnect sprint backlog](screenshots/sprint-2.png)
