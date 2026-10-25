@@ -27,12 +27,11 @@ My passion lies in technology, creativity, and innovation, and I continuously st
 
 **Plumstead High School**  
 National Senior Certificate  
-2017 – 2021
+2017–2021
 
 **Cape Peninsula University of Technology (CPUT)**  
-DIP: ICT IN MULTIMEDIA APPLICATIONS 
-
-2023 – 2026
+DIP: ICT IN MULTIMEDIA APPLICATIONS      
+2023–2026
 
 ---
 
@@ -40,7 +39,7 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 
 ### 👨‍💼 Academic Project Team Leader
 
-**Cape Peninsula University of Technology** | 2023 – 2026
+**Cape Peninsula University of Technology** | 2023–Present
 
 - Managed and organised the execution of multimedia and IT-based group projects across various course modules
 - Developed project timelines by allocating necessary tasks to group members and ensuring all deliverables were met
@@ -52,7 +51,7 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 
 ### 🌐 Developed and Designed Web-Based Applications and Educational Resources (Academic Projects)
 
-**Cape Peninsula University of Technology** | 2023 – 2026
+**Cape Peninsula University of Technology** | 2023–Present
 
 - Developed websites using HTML, CSS, and JavaScript
 - Applied UI/UX standards to improve user experience and accessibility
@@ -63,7 +62,7 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 
 ### 📱 Social Media Content Creator
 
-**YouTube, TikTok, Instagram** | 2024 – 2026
+**YouTube, TikTok, Instagram** | 2024–Present
 
 - Developed and managed original digital content across multiple social media platforms
 - Designed thumbnails, short-form videos, and visual assets aligned with platform trends
@@ -205,6 +204,8 @@ The sprint backlog helped me understand how selected work can be organised into 
 The following logbooks document my project activities, progress,
 planning and reflections during the Entrepreneurial WIL Projects
 from July to August 2026.
+
+**Evidence:**
 
 - [Agile Logbook – 14–17 July 2026](documents/agile-logbook-14-17-july-2026.docx)
 - [Agile Logbook – 21–24 July 2026](documents/agile-logbook-21-24-july-2026.docx)
