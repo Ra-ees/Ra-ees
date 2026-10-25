@@ -170,7 +170,7 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 *User stories and associated tasks in Trello.*
 
-### 🪞 Reflection on User Stories and Tasks
+**Reflection**
 
 Working with user stories and tasks helped me understand the importance of breaking a project into smaller pieces of work based on what users need. For RideConnect, this approach helps the team consider the needs of people using the application while making the development work easier to organise. I also learned that tasks need to be clearly described so that team members understand their responsibilities and can work towards the same project goals.
 
@@ -182,7 +182,7 @@ Working with user stories and tasks helped me understand the importance of break
 
 *Product backlog showing the planned product work.*
 
-### 🪞 Reflection on the Product Backlog
+**Reflection**
 
 The product backlog helped me understand how project requirements can be organised in one place and reviewed throughout development. It provides the team with a clearer view of the features and improvements that may be needed for RideConnect. I learned that keeping a backlog organised and prioritising work are important because a project can have several requirements, but the team must focus on the most important ones while working within its available time.
 
@@ -196,7 +196,7 @@ The product backlog helped me understand how project requirements can be organis
 
 *Sprint backlog showing the work planned for each sprint.*
 
-### 🪞 Reflection on the Sprint Backlog
+**Reflection**
 
 The sprint backlog helped me understand how selected work can be organised into manageable tasks for a specific development period. It connects the team's planned work with the progress that needs to be made during a sprint. I learned that tasks need to be realistic, clearly assigned and reviewed regularly so that the team can stay organised, identify possible difficulties and adjust when necessary. This approach supports better coordination and helps the team work towards its project objectives.
 
