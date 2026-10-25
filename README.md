@@ -1,4 +1,4 @@
-<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/b51995df-a482-48de-a492-109d6f0cf803" /># Raees Jaffar
+# Raees Jaffar
 
 🎓 Multimedia Applications Student at Cape Peninsula University of Technology (CPUT)
 
