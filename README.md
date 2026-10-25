@@ -1,4 +1,4 @@
-# Raees Jaffar
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/b51995df-a482-48de-a492-109d6f0cf803" /># Raees Jaffar
 
 🎓 Multimedia Applications Student at Cape Peninsula University of Technology (CPUT)
 
@@ -75,8 +75,9 @@ Diploma in ICT: Multimedia Applications
 
 - HTML
 - CSS
+- Javascript
 - Responsive Web Design
-- Basic Analytics Interpretation
+- Analytics Interpretation
 - Canva
 - Vector Graphic Design
 - Video Editing
@@ -84,18 +85,14 @@ Diploma in ICT: Multimedia Applications
 - Layout Design
 - Microsoft Office (Word, Excel, Access, PowerPoint, Outlook)
 - Content Creation
-
+- UI Design
+- Content Creation
+- Graphic Design 
+  
 ---
 
-## 🧠 Skills
+## 🧠 Soft Skills
 
-- Graphic Design
-- HTML
-- CSS
-- UI Design
-- UX Principles
-- Video Editing
-- Content Creation
 - Strategic Planning
 - Leadership
 - Communication
@@ -183,7 +180,7 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 **Evidence:** [View the RideConnect Trello board](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
 
-*Screenshots showing the product backlog will be added here.*
+![RideConnect product backlog](screenshots/product-backlog.png)
 
 **Reflection**
 
