@@ -152,7 +152,7 @@ RideConnect is our team's carpooling application concept, intended to help commu
 
 ### 1. Agile Team Charter
 
-**Evidence:** [View the Agile Team Charter (Word document)](documents/agile-team-charter.docx)
+**Evidence:** [View the Agile Team Charter](documents/agile-team-charter.docx)
 
 **Reflection**
 
@@ -160,7 +160,7 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 ### 2. User Stories and Tasks
 
-**Evidence:** [View the RideConnect User Stories Trello board](https://trello.com/invite/b/6a631fa858e2128dabc693d8/ATTIc45c2213c861ade283e4b745e42a28a9D9B645C3/userstories)
+**Evidence:** [View the User Stories Trello board](https://trello.com/invite/b/6a631fa858e2128dabc693d8/ATTIc45c2213c861ade283e4b745e42a28a9D9B645C3/userstories)
 
 ![User Stories and tasks in Trello](screenshots/user-stories.png)
 ![User Stories and tasks in Trello](screenshots/task-example1.png)
@@ -171,11 +171,13 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 **Reflection**
 
-Working with user stories and tasks helped me understand the importance of breaking a project into smaller pieces of work based on what users need. For RideConnect, this approach helps the team consider the needs of people using the application while making the development work easier to organise. I also learned that tasks need to be clearly described so that team members understand their responsibilities and can work towards the same project goals.
+Working with user stories and tasks helped me understand how a project's requirements can be considered from the perspective of the people who will use the final product. In the context of RideConnect, thinking about users' needs is important because the application is intended to support people looking for suitable carpooling options. Considering requirements from a user's perspective helps connect the proposed functionality to the purpose of the application rather than focusing only on its technical implementation.
+
+I also learned the importance of breaking larger requirements into smaller, manageable tasks. Clearly defined tasks make it easier for a team to understand the work involved, coordinate responsibilities and monitor progress. However, breaking down requirements effectively requires careful planning so that tasks are understandable, relevant and achievable. This process has strengthened my understanding of how user needs can guide development decisions and how structured task management can help a team work more efficiently towards its project objectives.
 
 ### 3. Product Backlog
 
-**Evidence:** [View the RideConnect Product Backlog Trello board](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
+**Evidence:** [View the Product Backlog Trello board](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
 
 ![RideConnect product backlog](screenshots/product-backlog.png)
 
@@ -183,21 +185,23 @@ Working with user stories and tasks helped me understand the importance of break
 
 **Reflection**
 
-The product backlog helped me understand how project requirements can be organised in one place and reviewed throughout development. It provides the team with a clearer view of the features and improvements that may be needed for RideConnect. I learned that keeping a backlog organised and prioritising work are important because a project can have several requirements, but the team must focus on the most important ones while working within its available time.
-w
+Working with the Product Backlog helped me understand how a project's required features, tasks and potential improvements can be collected and organised in one place. During the RideConnect project, our group used Trello to manage and present our Product Backlog, giving us a way to review the work identified for the application and consider its relationship to the overall project requirements.
+
+I learned that a Product Backlog is not simply a list of everything a team intends to build. It also supports prioritisation and ongoing review, allowing the team to consider which requirements are most important and how the work should be approached as the project develops. Maintaining an organised backlog is especially useful when a project contains several requirements and the team must work within limited time and resources. This experience helped me recognise the value of keeping project information clear, reviewing progress regularly and adjusting priorities when necessary. It also reinforced the importance of ensuring that planned work remains connected to the needs and objectives of the project.
+
 ### 4. Sprint Backlog
 
 **Evidence:**
 
-[View the RideConnect Sprint 1 Trello board](https://trello.com/invite/b/6a6797344e221355b41ecac5/ATTI09fc132afbc094afee299f83a226780b994A1CA7/rideconnect-sprint-1)
+[View the Sprint 1 Trello board](https://trello.com/invite/b/6a6797344e221355b41ecac5/ATTI09fc132afbc094afee299f83a226780b994A1CA7/rideconnect-sprint-1)
 
-[View the RideConnect Sprint 2 Trello board](https://trello.com/invite/b/6a67980fe2b435b92e2ae49f/ATTIe0029f897bcff88c7a99533ab1afeda848813B7E/rideconnect-sprint-2)
+[View the Sprint 2 Trello board](https://trello.com/invite/b/6a67980fe2b435b92e2ae49f/ATTIe0029f897bcff88c7a99533ab1afeda848813B7E/rideconnect-sprint-2)
 
-[View the RideConnect Sprint 3 Trello board](https://trello.com/invite/b/6a742c40f7f971fceaa6f3a1/ATTI0a76d77b7ee5ba56a69b0c37da3d6eab7BBB9DB7/rideconnect-sprint-3)
+[View the Sprint 3 Trello board](https://trello.com/invite/b/6a742c40f7f971fceaa6f3a1/ATTI0a76d77b7ee5ba56a69b0c37da3d6eab7BBB9DB7/rideconnect-sprint-3)
 
-[View the RideConnect Sprint 4 Trello board](https://trello.com/invite/b/6a742f9df4528bf00e0ebb1a/ATTI9eb83b480e79ba541c57818d9053d4bcE22143C8/rideconnect-sprint-4)
+[View the Sprint 4 Trello board](https://trello.com/invite/b/6a742f9df4528bf00e0ebb1a/ATTI9eb83b480e79ba541c57818d9053d4bcE22143C8/rideconnect-sprint-4)
 
-[View the RideConnect Sprint 5 Trello board](https://trello.com/invite/b/6a7438593b5bdc98af986e22/ATTIde30f5f35d961763708b8f0742beb06fE97478C9/rideconnect-sprint-5)
+[View the Sprint 5 Trello board](https://trello.com/invite/b/6a7438593b5bdc98af986e22/ATTIde30f5f35d961763708b8f0742beb06fE97478C9/rideconnect-sprint-5)
 
 ![RideConnect sprint backlog](screenshots/sprint-1.png)
 ![RideConnect sprint backlog](screenshots/sprint-2.png)
@@ -209,7 +213,10 @@ w
 
 **Reflection**
 
-The sprint backlog helped me understand how selected work can be organised into manageable tasks for a specific development period. It connects the team's planned work with the progress that needs to be made during a sprint. I learned that tasks need to be realistic, clearly assigned and reviewed regularly so that the team can stay organised, identify possible difficulties and adjust when necessary. This approach supports better coordination and helps the team work towards its project objectives.
+The Sprint Backlog helped me understand how a team can organise selected work into a manageable plan for a particular sprint. While the Product Backlog provides an overview of the work that may be required for the product, the Sprint Backlog focuses on the work selected for the current development period and the steps needed to make progress towards the sprint goal.
+
+I learned that effective sprint planning requires the team to consider task priorities, responsibilities, available time and the work that can realistically be undertaken. Breaking selected work into actionable tasks can make responsibilities clearer and help the team monitor progress throughout the sprint. It is also important to review the plan as work progresses, particularly when unexpected difficulties or changes affect the team's priorities. Reflecting on this approach has helped me understand that Agile planning should provide structure without preventing the team from adapting when circumstances change. A well-managed Sprint Backlog can therefore support coordination, visibility and a more focused approach to development.
+
 
 ### 5. Agile Logbook
 
@@ -226,8 +233,11 @@ from July to August 2026.
 
 **Reflection**
 
-Maintaining my Agile Logbook helped me track my progress and understand how different activities contributed to the development of our project. My entries cover several stages of the work, from reviewing project requirements and preparing a business case presentation to organising the Product Backlog in Trello, presenting our Figma prototype and working on the frontend functionality for RideConnect. They also record the preparation of our brand guide and the completion of required
-documentation.
+Maintaining my Agile Logbook helped me document my activities, record my plans and reflect on the challenges encountered during the Entrepreneurial WIL Projects. My entries from July and August 2026 cover several stages of the work, including reviewing project requirements, preparing a business case presentation, working with our Product Backlog in Trello, presenting our Figma prototype and contributing to the frontend functionality of RideConnect. They also document preparation for our brand guide presentation and the completion of required project documentation.
+
+One of the main lessons I learned was the importance of communication, planning and coordination when working towards shared project goals. Preparing presentations and reviewing project documentation required attention to deadlines and cooperation between team members. My entries also recorded situations in which scheduled sessions did not take place, reminding me of the importance of remaining prepared and organising my work when circumstances change.
+
+Recording what I had completed, what I intended to do next and the difficulties I encountered encouraged me to reflect on my responsibilities and manage my time more consciously. The logbook helped me recognise that tracking progress is not only about recording completed activities; it is also about identifying challenges, considering next steps and maintaining an accurate account of development. Overall, maintaining this record strengthened my appreciation of continuous reflection, accountability and structured planning throughout a project.
 
 ---
 
