@@ -83,7 +83,7 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 - Video Editing
 - Digital Image Manipulation
 - Layout Design
-- Microsoft Office (Word, Excel, Access, PowerPoint, Outlook)
+- Microsoft Office (Word, Excel, PowerPoint, Outlook)
 - Content Creation
 - UI Design
 - Content Creation
