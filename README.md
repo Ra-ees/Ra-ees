@@ -202,11 +202,19 @@ The sprint backlog helped me understand how selected work can be organised into 
 
 ### 5. Agile Logbook
 
-**Evidence:** [View the Agile Logbook (Word document)](documents/agile-logbook.docx)
+The following logbooks document my project activities, progress,
+planning and reflections during the Entrepreneurial WIL Projects
+from July to August 2026.
+
+- [Agile Logbook – 14–17 July 2026](documents/agile-logbook-14-17-july-2026.docx)
+- [Agile Logbook – 21–24 July 2026](documents/agile-logbook-21-24-july-2026.docx)
+- [Agile Logbook – 28–31 July 2026](documents/agile-logbook-28-31-july-2026.docx)
+- [Agile Logbook – 4–7 August 2026](documents/agile-logbook-4-7-august-2026.docx)
 
 **Reflection**
 
-My Agile logbook records project activities and plans for 3–7 August 2026. The entries cover online classes, work on the RideConnect application, preparation and presentation of the Trello board, work on the brand guide, and completion of a monthly report and registration form. Each daily entry uses the questions about completed work, planned work and impediments to structure the record. Keeping this information helped me recognise the value of making progress, next steps and challenges visible rather than relying on memory. The entries also show the need to plan around presentations and submission tasks, and to manage time when several activities must be completed close together. I learned that a logbook can support accountability and provide a record that the team can refer back to when reviewing project progress.
+Maintaining my Agile Logbook helped me track my progress and understand how different activities contributed to the development of our project. My entries cover several stages of the work, from reviewing project requirements and preparing a business case presentation to organising the Product Backlog in Trello, presenting our Figma prototype and working on the frontend functionality for RideConnect. They also record the preparation of our brand guide and the completion of required
+documentation.
 
 ---
 
