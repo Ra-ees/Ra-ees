@@ -169,8 +169,8 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 ![User Stories and tasks in Trello](screenshots/user-stories.png)
 ![User Stories and tasks in Trello](screenshots/task-example1.png)
-![User Stories and tasks in Trello](screenshots/task2-example2.png)
-![User Stories and tasks in Trello](screenshots/task3-example3.png)
+![User Stories and tasks in Trello](screenshots/task-example2.png)
+![User Stories and tasks in Trello](screenshots/task-example3.png)
 
 **Reflection**
 
