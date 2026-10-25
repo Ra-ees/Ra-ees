@@ -39,7 +39,7 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 
 ### 👨‍💼 Academic Project Team Leader
 
-**Cape Peninsula University of Technology** | 2023–Present
+**Cape Peninsula University of Technology** | 2023–2026
 
 - Managed and organised the execution of multimedia and IT-based group projects across various course modules
 - Developed project timelines by allocating necessary tasks to group members and ensuring all deliverables were met
@@ -51,7 +51,7 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 
 ### 🌐 Developed and Designed Web-Based Applications and Educational Resources (Academic Projects)
 
-**Cape Peninsula University of Technology** | 2023–Present
+**Cape Peninsula University of Technology** | 2023–2026
 
 - Developed websites using HTML, CSS, and JavaScript
 - Applied UI/UX standards to improve user experience and accessibility
@@ -62,7 +62,7 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 
 ### 📱 Social Media Content Creator
 
-**YouTube, TikTok, Instagram** | 2024–Present
+**YouTube, TikTok, Instagram** | 2024–2026
 
 - Developed and managed original digital content across multiple social media platforms
 - Designed thumbnails, short-form videos, and visual assets aligned with platform trends
