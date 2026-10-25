@@ -152,7 +152,7 @@ RideConnect is our team's carpooling application concept, intended to help commu
 
 ### 1. Agile Team Charter
 
-**Evidence:** [View the Agile Team Charter](documents/agile-team-charter.docx)
+**Evidence:** [View the Agile Team Charter](documents/agile-team-charter.pdf)
 
 **Reflection**
 
@@ -226,10 +226,10 @@ from July to August 2026.
 
 **Evidence:**
 
-- [Agile Logbook – 14–17 July 2026](documents/agile-logbook-14-17-july-2026.docx)
-- [Agile Logbook – 21–24 July 2026](documents/agile-logbook-21-24-july-2026.docx)
-- [Agile Logbook – 28–31 July 2026](documents/agile-logbook-28-31-july-2026.docx)
-- [Agile Logbook – 4–7 August 2026](documents/agile-logbook-4-7-august-2026.docx)
+- [Agile Logbook – 14–17 July 2026](documents/agile-logbook-14-17-july-2026.pdf)
+- [Agile Logbook – 21–24 July 2026](documents/agile-logbook-21-24-july-2026.pdf)
+- [Agile Logbook – 28–31 July 2026](documents/agile-logbook-28-31-july-2026.pdf)
+- [Agile Logbook – 4–7 August 2026](documents/agile-logbook-4-7-august-2026.pdf)
 
 **Reflection**
 
