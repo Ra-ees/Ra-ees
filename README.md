@@ -86,7 +86,6 @@ DIP: ICT IN MULTIMEDIA APPLICATIONS
 - Microsoft Office (Word, Excel, PowerPoint, Outlook)
 - Content Creation
 - UI Design
-- Content Creation
 - Graphic Design 
   
 ---
