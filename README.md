@@ -151,7 +151,14 @@ RideConnect is our team's carpooling application concept, intended to help commu
 
 **Evidence:** 
 
-
+![Agile Team Charter](screenshots/agile-team-charter-1.png)
+![Agile Team Charter](screenshots/agile-team-charter-2.png)
+![Agile Team Charter](screenshots/agile-team-charter-3.png)
+![Agile Team Charter](screenshots/agile-team-charter-4.png)
+![Agile Team Charter](screenshots/agile-team-charter-5.png)
+![Agile Team Charter](screenshots/agile-team-charter-6.png)
+![Agile Team Charter](screenshots/agile-team-charter-7.png)
+![Agile Team Charter](screenshots/agile-team-charter-8.png)
 
 **Reflection**
 
@@ -197,6 +204,8 @@ I learned that a Product Backlog is not simply a list of everything a team inten
 ![RideConnect sprint backlog](screenshots/sprint-3.png)
 ![RideConnect sprint backlog](screenshots/sprint-4.png)
 ![RideConnect sprint backlog](screenshots/sprint-5.png)
+![RideConnect sprint backlog](screenshots/sprint-6.png)
+![RideConnect sprint backlog](screenshots/sprint-7.png)
 
 *Sprint backlog showing the work planned for each sprint.*
 
