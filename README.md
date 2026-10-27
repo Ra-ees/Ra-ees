@@ -242,9 +242,27 @@ from July to August 2026.
 
 
 ![Agile Logbook](screenshots/agile-logbook-14-17-July-2.png)
-![Agile Logbook](screenshots/agile-logbook-14-17-July.png)
-![Agile Logbook](screenshots/agile-logbook-14-17-July.png)
 
+
+![Agile Logbook](screenshots/agile-logbook-21-24-July-1.png)
+
+
+![Agile Logbook](screenshots/agile-logbook-21-24-July-2.png)
+
+
+![Agile Logbook](screenshots/agile-logbook-28-31-July-1.png)
+
+
+![Agile Logbook](screenshots/agile-logbook-28-31-July-2.png)
+
+
+![Agile Logbook](screenshots/agile-logbook-4-7-August-1.png)
+
+
+![Agile Logbook](screenshots/agile-logbook-4-7-August-2.png)
+
+
+![Agile Logbook](screenshots/agile-logbook-4-7-August-3.png)
 
 **Reflection**
 
