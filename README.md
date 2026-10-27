@@ -225,6 +225,8 @@ from July to August 2026.
 **Evidence:**
 
 ![Agile Logbook](screenshots/agile-logbook-14-17-July-1.png)
+
+
 ![Agile Logbook](screenshots/agile-logbook-14-17-July-2.png)
 ![Agile Logbook](screenshots/agile-logbook-14-17-July.png)
 ![Agile Logbook](screenshots/agile-logbook-14-17-July.png)
