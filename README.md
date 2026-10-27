@@ -147,11 +147,11 @@ Woodside Village for the Disabled
 
 RideConnect is our team's carpooling application concept, intended to help commuters travelling to similar destinations share rides. The following evidence documents how the team agreed on its ways of working and organised project activities using Agile practices.
 
-**Project management board:** [Open the RideConnect Trello invitation](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
-
 ### 1. Agile Team Charter
 
-**Evidence:** [View the Agile Team Charter](documents/agile-team-charter.pdf)
+**Evidence:** 
+
+
 
 **Reflection**
 
@@ -159,7 +159,7 @@ Reviewing our RideConnect team charter helped me understand the importance of ag
 
 ### 2. User Stories and Tasks
 
-**Evidence:** [View the User Stories Trello board](https://trello.com/invite/b/6a631fa858e2128dabc693d8/ATTIc45c2213c861ade283e4b745e42a28a9D9B645C3/userstories)
+**Evidence:** 
 
 ![User Stories and tasks in Trello](screenshots/user-stories.png)
 ![User Stories and tasks in Trello](screenshots/task-1.png)
@@ -176,7 +176,7 @@ I also learned the importance of breaking larger requirements into smaller, mana
 
 ### 3. Product Backlog
 
-**Evidence:** [View the Product Backlog Trello board](https://trello.com/invite/b/69f78cbf0398c03c17eabecd/ATTI657e5dfee2fdce281e97298e4bc2c023507B7386/rideconnect-app)
+**Evidence:** 
 
 ![RideConnect product backlog](screenshots/product-backlog.png)
 
@@ -191,16 +191,6 @@ I learned that a Product Backlog is not simply a list of everything a team inten
 ### 4. Sprint Backlog
 
 **Evidence:**
-
-[View the Sprint 1 Trello board](https://trello.com/invite/b/6a6797344e221355b41ecac5/ATTI09fc132afbc094afee299f83a226780b994A1CA7/rideconnect-sprint-1)
-
-[View the Sprint 2 Trello board](https://trello.com/invite/b/6a67980fe2b435b92e2ae49f/ATTIe0029f897bcff88c7a99533ab1afeda848813B7E/rideconnect-sprint-2)
-
-[View the Sprint 3 Trello board](https://trello.com/invite/b/6a742c40f7f971fceaa6f3a1/ATTI0a76d77b7ee5ba56a69b0c37da3d6eab7BBB9DB7/rideconnect-sprint-3)
-
-[View the Sprint 4 Trello board](https://trello.com/invite/b/6a742f9df4528bf00e0ebb1a/ATTI9eb83b480e79ba541c57818d9053d4bcE22143C8/rideconnect-sprint-4)
-
-[View the Sprint 5 Trello board](https://trello.com/invite/b/6a7438593b5bdc98af986e22/ATTIde30f5f35d961763708b8f0742beb06fE97478C9/rideconnect-sprint-5)
 
 ![RideConnect sprint backlog](screenshots/sprint-1.png)
 ![RideConnect sprint backlog](screenshots/sprint-2.png)
@@ -219,16 +209,13 @@ I learned that effective sprint planning requires the team to consider task prio
 
 ### 5. Agile Logbook
 
-The following logbooks document my project activities, progress,
+The following screenshots of my logbooks document my project activities, progress,
 planning and reflections during the Entrepreneurial WIL Projects
 from July to August 2026.
 
 **Evidence:**
 
-- [Agile Logbook – 14–17 July 2026](documents/agile-logbook-14-17-july-2026.pdf)
-- [Agile Logbook – 21–24 July 2026](documents/agile-logbook-21-24-july-2026.pdf)
-- [Agile Logbook – 28–31 July 2026](documents/agile-logbook-28-31-july-2026.pdf)
-- [Agile Logbook – 4–7 August 2026](documents/agile-logbook-4-7-august-2026.pdf)
+
 
 **Reflection**
 
