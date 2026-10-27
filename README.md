@@ -152,12 +152,26 @@ RideConnect is our team's carpooling application concept, intended to help commu
 **Evidence:** 
 
 ![Agile Team Charter](screenshots/agile-team-charter-1.png)
+
+
 ![Agile Team Charter](screenshots/agile-team-charter-2.png)
+
+
 ![Agile Team Charter](screenshots/agile-team-charter-3.png)
+
+
 ![Agile Team Charter](screenshots/agile-team-charter-4.png)
+
+
 ![Agile Team Charter](screenshots/agile-team-charter-5.png)
+
+
 ![Agile Team Charter](screenshots/agile-team-charter-6.png)
+
+
 ![Agile Team Charter](screenshots/agile-team-charter-7.png)
+
+
 ![Agile Team Charter](screenshots/agile-team-charter-8.png)
 
 **Reflection**
